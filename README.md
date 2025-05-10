@@ -34,7 +34,7 @@ WebFlyx/
   A curated set of quotes from *Dune*.
 
 * **`quotes/starwars.md`**
-  Quotes, trivia, or highlights from *Star Wars*.
+  Quotes from *Star Wars*.
 
 ---
 
